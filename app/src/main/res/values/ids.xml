@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="professionTextView" type="id" />
+    <item name="surnameTextView" type="id" />
+    <item name="nameTextView" type="id" />
+    <item name="nameEditText" type="id" />
+    <item name="professionEditText" type="id" />
+    <item name="surnameEditText" type="id" />
+    <item name="getButton" type="id" />
+    <item name="insertButton" type="id" />
+</resources>
